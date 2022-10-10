@@ -7,7 +7,7 @@
 
 Let’s analyze Big Three Anime
 
-One Piece, Naruto, and Bleach
+One Piece, Naruto, and Bleach 
 
 Big Three, as the name, states the three long-running anime had made a huge impact in Shounen History. What makes these three special? The Big three dominated an entire decade, with amazing characters cast, stunning openings and soundtracks and not to forget the fight scenes.
 
@@ -29,3 +29,4 @@ BigThree- Contains the name of the Anime to which the Arc belongs.
 * What makes these 3 animes different?
 * Compare each animes in terms of each attributes
 * Explore and visualize 
+
