@@ -1,3 +1,7 @@
+"""
+a light-weight python module to automatically create, train and predict based on model type.
+"""
+
 # Imports
 import pandas as pd
 import numpy as np
